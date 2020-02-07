@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HelloWorld/v16
+/src/HelloWorld.Grains/bin/Debug/netstandard2.0
+/src/HelloWorld.Grains/obj
+/src/HelloWorld.Interfaces/bin/Debug/netstandard2.0
+/src/HelloWorld.Interfaces/obj
+/src/OrleansClient/bin/Debug/netcoreapp2.1
+/src/OrleansClient/obj
+/src/SiloHost/bin/Debug/netcoreapp2.1
+/src/SiloHost/obj
+/src/SiloHost/db-connection-string.txt
+/src/OrleansClient/db-connection-string.txt
